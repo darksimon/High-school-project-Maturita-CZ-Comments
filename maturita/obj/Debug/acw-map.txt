@@ -1,0 +1,4 @@
+maturita.MainActivity, maturita;md5771863b675ab0db8fc4b1ac2bae59edf.MainActivity
+maturita.MainActivity, maturita, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5771863b675ab0db8fc4b1ac2bae59edf.MainActivity
+maturita.MainActivity;md5771863b675ab0db8fc4b1ac2bae59edf.MainActivity
+maturita.MainActivity;md5771863b675ab0db8fc4b1ac2bae59edf.MainActivity
